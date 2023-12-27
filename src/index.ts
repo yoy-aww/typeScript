@@ -1,1 +1,6 @@
-const a: Number = 123;
+import { Company } from "./types"
+
+const a: Company = {
+    name: 'a',
+    address: 'a'
+};
